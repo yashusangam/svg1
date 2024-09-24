@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: blue;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 40PX;
+    color: white;
+}
+ul{
+    display: flex;
+    gap: 50px;
+}
+ul a{
+    font-size: 20px;
+    color: white;
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+    margin: 150px;
+    margin-top: 100px;
+}
+.too h2,p{
+    padding: 30px;
+    color: white;
+}
+button{
+    margin-left: 30em;
+    border-radius: 15px 0px 15px 0px;
+    height: 50px;
+    width: 150px;
+    background-color:white;
+    color: black;
+}
+svg{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.pavan{
+    position: absolute;
+}
+h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
